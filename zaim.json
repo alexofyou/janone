@@ -2,6 +2,8 @@
 
 
 
+
+
 [
 
  {
@@ -20,7 +22,7 @@
     {
       
         "aage": "18-65",
-        "image_url": "http://youradiostation.ru/img/weeb.png",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/weeb.png",
         "rating": 5.0,
         "sum_one": "до 15 000",
         "days_info": "до 180 дней",
@@ -44,7 +46,7 @@
 {
         
         "aage": "21-65",
-        "image_url": "http://youradiostation.ru/img/vivaden.png",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vivaden.png",
         "rating": 4.4,
         "sum_one": "до 80 000",
         "days_info": "до 160 дней",
@@ -58,7 +60,7 @@
     {
         
         "aage": "21-65",
-        "image_url": "http://youradiostation.ru/img/vivgo.png",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vivgo.png",
         "rating": 4.4,
         "sum_one": "до 80 000",
         "days_info": "до 160 дней",
@@ -73,7 +75,7 @@
     {
        
         "aage": "21-65",
-        "image_url": "http://youradiostation.ru/img/moneymmm.png",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/moneymmm.png",
         "rating": 4.4,
         "sum_one": "до 80 000",
         "days_info": "до 160 дней",
@@ -86,7 +88,7 @@
     {
        
         "aage": "21-65",
-        "image_url": "http://youradiostation.ru/img/robotmoney.png",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/robotmoney.png",
         "rating": 4.6,
         "sum_one": "до 50 000",
         "days_info": "до 160 дней",
@@ -103,7 +105,7 @@
  {
       
         "aage": "21-65",
-        "image_url": "http://youradiostation.ru/img/zzazm.png",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zzazm.png",
         "rating": 4.4,
         "sum_one": "до 15 000",
         "days_info": "до 160 дней",
@@ -124,7 +126,7 @@
     {
      
         "aage": "21-65",
-        "image_url": "http://youradiostation.ru/img/otlichnye.png",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/otlichnye.png",
         "rating": 4.4,
         "sum_one": "до 80 000",
         "days_info": "до 160 дней",
@@ -137,7 +139,7 @@
     {
      
         "aage": "21-70",
-        "image_url": "http://youradiostation.ru/img/limees.jpeg",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/limees.jpeg",
         "rating": 4.5,
         "sum_one": "до 70 000",
         "days_info": "до 160 дней",
@@ -153,7 +155,7 @@
     {
         
         "aage": "21-65",
-        "image_url": "http://youradiostation.ru/img/ffs.png",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ffs.png",
         "rating": 4.8,
         "sum_one": "до 30 000",
         "days_info": "до 160 дней",
@@ -167,7 +169,7 @@
     {
        
         "aage": "21-65",
-        "image_url": "http://youradiostation.ru/img/zpp.png",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zpp.png",
         "rating": 4.4,
         "sum_one": "до 100 000",
         "days_info": "до 160 дней",
@@ -181,7 +183,7 @@
     {
     
         "aage": "21-65",
-        "image_url": "http://youradiostation.ru/img/bb.png",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
         "rating": 4.7,
         "sum_one": "до 15 000",
         "days_info": "до 160 дней",
@@ -194,7 +196,7 @@
     {
      
         "aage": "21-65",
-        "image_url": "http://youradiostation.ru/img/turbo.jpg",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/turbo.jpg",
         "rating": 4.4,
         "sum_one": "до 50 000",
         "days_info": "до 160 дней",
@@ -209,7 +211,7 @@
     {
        
         "aage": "21-65",
-        "image_url": "http://youradiostation.ru/img/bbel.jpeg",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bbel.jpeg",
         "rating": 4.8,
         "sum_one": "до 30 000",
         "days_info": "до 160 дней",
@@ -232,7 +234,7 @@
     {
       
         "aage": "18-65",
-        "image_url": "http://youradiostation.ru/img/cash-u.png",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/cash-u.png",
         "rating": 5.0,
         "sum_one": "до 30 000",
         "days_info": "до 180 дней",
@@ -244,7 +246,7 @@
   
     {
         "aage": "21-65",
-        "image_url": "http://youradiostation.ru/img/paay.png",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/paay.png",
         "rating": 4.4,
         "sum_one": "до 15 000",
         "days_info": "до 160 дней",
@@ -260,7 +262,7 @@
     {
     
         "aage": "21-65",
-        "image_url": "http://youradiostation.ru/img/jjj.png",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/jjj.png",
         "rating": 4.4,
         "sum_one": "до 60 000",
         "days_info": "до 160 дней",
@@ -271,7 +273,7 @@
     {
       
         "aage": "21-65",
-        "image_url": "http://youradiostation.ru/img/knz.png",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/knz.png",
         "rating": 4.4,
         "sum_one": "до 70 000",
         "days_info": "до 160 дней",
@@ -295,7 +297,7 @@
     {
        
         "aage": "21-65",
-        "image_url": "http://youradiostation.ru/img/glf.png",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/glf.png",
         "rating": 4.7,
         "sum_one": "до 30 000",
         "days_info": "до 160 дней",
@@ -311,7 +313,7 @@
       ,
     {
                 "aage": "21-65",
-        "image_url": "http://youradiostation.ru/img/zzg.jpg",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zzg.jpg",
         "rating": 4.7,
         "sum_one": "до 15 000",
         "days_info": "до 160 дней",
