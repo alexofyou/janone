@@ -1,6 +1,19 @@
 [
     
-    
+  {
+        "name": "kap",
+        "aage": "21-65",
+        "image_url": "http://youradiostation.ru/img/ekap.jpg",
+        "rating": 4.4,
+        "sum_from": "30 000",
+        "sum_one": "30 000",
+        "term_from": "2",
+        "days_info": "до160 дней",
+        "percent": "от 0% в день",
+        "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=dam"
+    } ,   
+	
+	
  
  {
   
