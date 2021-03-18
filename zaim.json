@@ -6,7 +6,7 @@
 
 [
 
- {
+  {
        
         "aage": "21-65",
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ekapustas.png",
@@ -15,10 +15,22 @@
         "days_info": "до 160 дней",
         "percent": "от 0% в день",
         "url": "https://trkleads.ru/click/a74bc336d450fb119956f2bc301b957b?aff_sub1=am"
-    }
+    } ,
     
-,
- {
+
+
+    {
+      
+        "aage": "18-65",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/weeb.png",
+        "rating": 5,
+        "sum_one": "до 15 000",
+        "days_info": "до 180 дней",
+        "percent": "от 0% в день",
+        "url": "https://trkleads.ru/click/fac9aa98231e5d562f152a1905492616?aff_sub1=am"
+    },
+
+{
        
         "aage": "18-65",
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/logmin.png",
@@ -27,6 +39,19 @@
         "days_info": "до 160 дней",
         "percent": "1%",
         "url": "https://trkleads.ru/click/0621aeac6a42483792847114ca9bd464?aff_sub1=am"
+    },
+
+
+
+{
+        
+        "aage": "21-65",
+        "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/vivaden.png",
+        "rating": 4,
+        "sum_one": "до 80 000",
+        "days_info": "до 160 дней",
+        "percent": "от 0,18% в день",
+        "url": "https://pxl.leads.su/click/93dcd70f88c64d12a49eafec15088a73?aff_sub1=am"
     }
 
      
