@@ -186,7 +186,7 @@
      
         "aage": "21-70",
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/limees.jpeg",
-        "rating": 4.0,
+        "rating": 4,
         "sum_one": "до 70 000 руб",
        "days_info": "до 180 дней",
 
@@ -198,7 +198,7 @@
    {
       
                "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/cash-u.png",
-        "rating": 5.0,
+        "rating": 5,
         "sum_one": "до 30 000 руб",
        "days_info": "до 180 дней",
         "percent": "0%",
@@ -208,7 +208,7 @@
  {
               
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/zzg.jpg",
-        "rating": 4.0,
+        "rating": 4,
         "sum_one": "до 15 000 руб",
        "days_info": "до 180 дней",
         "percent": "1%",
@@ -219,7 +219,7 @@
     
       
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/bb.png",
-        "rating": 4.0,
+        "rating": 4,
         "sum_one": "до 15 000 руб",
         "days_info": "до 180 дней",
         "percent": "1%",
@@ -230,7 +230,7 @@
         
       
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ffs.png",
-        "rating": 4.0,
+        "rating": 4,
         "sum_one": "до 30 000 руб",
        "days_info": "до 180 дней",
         "percent": "1%",
@@ -241,7 +241,7 @@
         
       
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/sevens.png",
-        "rating": 4.0,
+        "rating": 4,
         "sum_one": "до 30 000 руб",
        "days_info": "до 180 дней",
         "percent": "0%",
@@ -253,7 +253,7 @@
         
       
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/creps.png",
-        "rating": 4.0,
+        "rating": 4,
         "sum_one": "до 30 000 руб",
        "days_info": "до 180 дней",
         "percent": "0%",
@@ -265,7 +265,7 @@
         
       
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ezaemg.png",
-        "rating": 5.0,
+        "rating": 5,
         "sum_one": "до 15 000 руб",
        "days_info": "до 180 дней",
         "percent": "0%",
@@ -276,7 +276,7 @@
         
       
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/ssmm.png",
-        "rating": 5.0,
+        "rating": 5,
         "sum_one": "до 30 000 руб",
        "days_info": "до 180 дней",
         "percent": "0%",
@@ -288,7 +288,7 @@
         
       
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/paay.png",
-        "rating": 4.0,
+        "rating": 4,
         "sum_one": "до 30 000 руб",
        "days_info": "до 180 дней",
         "percent": "1%",
@@ -300,7 +300,7 @@
         
       
         "image_url": "https://raw.githubusercontent.com/alexofyou/images/main/nadoeg.png",
-        "rating": 4.0,
+        "rating": 4,
         "sum_one": "до 30 000 руб",
        "days_info": "до 180 дней",
         "percent": "0%",
